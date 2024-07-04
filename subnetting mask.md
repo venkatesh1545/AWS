@@ -162,7 +162,7 @@ Given the requirement of 10 IP addresses, follow the subnetting steps.
 | Subnet 15     | 192.168.10.224 | 192.168.10.225 - 192.168.10.238| 192.168.10.239     |
 | Subnet 16     | 192.168.10.240 | 192.168.10.241 - 192.168.10.254| 192.168.10.255     |
 
-## Example 3: Allocating 60 IP Addresses to 60 Computers
+## Example 3: Allocating 60 IP Addresses
 
 ### Problem
 Given the requirement of 60 IP addresses, follow the subnetting steps.
